@@ -1,0 +1,64 @@
+@media screen and (max-width: 600px){
+	
+	body{
+		text-align:center;
+	}
+	header h1{
+		top:1.5em;
+		width:100%;
+		left:0;
+
+	}
+	.ex-2 span {
+		display:none;
+}
+	footer .col-md-6{
+		text-align:center;
+		width:100%;
+	}
+	.ex-2 img{
+	position: absolute;
+    top:0 ;
+    left: 1em;
+}
+	}
+	.sep-2 {
+		top:-3em;
+		left:0em;
+		padding:3% 0;
+	}
+
+	.ex-3{
+		padding-top:5%;
+	}
+	.persona-2{
+		width:100%;
+		margin-bottom:0;
+		padding-bottom:0;
+	}
+	.guess{
+		padding-top:0;
+		margin-top:0;
+	}
+	.example iframe{
+		width:100%;
+	}
+	.b-azul .col-md-6{
+		width:70%;
+		text-align: center;
+		padding:0;
+	}
+	.b-azul{
+		height:14em;
+		top:32em;
+	}
+	.b-azul button{
+		margin-left:3.5em;
+	}
+	.line, .line-2, .line-3{
+		display:none;
+	}
+	.p-laptop{
+		margin-left:0;
+	}
+}
